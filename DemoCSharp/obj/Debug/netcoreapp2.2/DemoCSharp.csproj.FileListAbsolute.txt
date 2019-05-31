@@ -1,0 +1,11 @@
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\bin\Debug\netcoreapp2.2\DemoCSharp.deps.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\bin\Debug\netcoreapp2.2\DemoCSharp.runtimeconfig.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\bin\Debug\netcoreapp2.2\DemoCSharp.runtimeconfig.dev.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\bin\Debug\netcoreapp2.2\DemoCSharp.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\bin\Debug\netcoreapp2.2\DemoCSharp.pdb
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.csprojAssemblyReference.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.AssemblyInfoInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.AssemblyInfo.cs
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoCSharp\obj\Debug\netcoreapp2.2\DemoCSharp.pdb

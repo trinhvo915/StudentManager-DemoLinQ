@@ -1,0 +1,14 @@
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\bin\Debug\netcoreapp2.2\ManageStudent.deps.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\bin\Debug\netcoreapp2.2\ManageStudent.runtimeconfig.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\bin\Debug\netcoreapp2.2\ManageStudent.runtimeconfig.dev.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\bin\Debug\netcoreapp2.2\ManageStudent.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.csproj.CoreCompileInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.RazorAssemblyInfo.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.RazorAssemblyInfo.cs
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.AssemblyInfoInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.AssemblyInfo.cs
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.RazorTargetAssemblyInfo.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\bin\Debug\netcoreapp2.2\ManageStudent.pdb
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.pdb
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\ManageStudent\obj\Debug\netcoreapp2.2\ManageStudent.csprojAssemblyReference.cache

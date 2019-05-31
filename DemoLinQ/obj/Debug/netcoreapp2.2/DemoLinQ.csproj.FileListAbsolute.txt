@@ -1,0 +1,11 @@
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\bin\Debug\netcoreapp2.2\DemoLinQ.deps.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\bin\Debug\netcoreapp2.2\DemoLinQ.runtimeconfig.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\bin\Debug\netcoreapp2.2\DemoLinQ.runtimeconfig.dev.json
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\bin\Debug\netcoreapp2.2\DemoLinQ.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\bin\Debug\netcoreapp2.2\DemoLinQ.pdb
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.csprojAssemblyReference.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.csproj.CoreCompileInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.AssemblyInfoInputs.cache
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.AssemblyInfo.cs
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.dll
+C:\Users\trinh.vo\Documents\MyProject\DemoCSharp\DemoLinQ\obj\Debug\netcoreapp2.2\DemoLinQ.pdb
